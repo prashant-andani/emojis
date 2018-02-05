@@ -1,5 +1,5 @@
 # emojis
-All emojis at one place
+All emojis at one place for readme and lot more
 
 People
 
@@ -13,7 +13,8 @@ People
 | :kissing: `:kissing:` | :kissing_smiling_eyes: `:kissing_smiling_eyes:` | :stuck_out_tongue: `:stuck_out_tongue:` |
 | :sleeping: `:sleeping:` | :worried: `:worried:` | :frowning: `:frowning:` |
 | :anguished: `:anguished:` | :open_mouth: `:open_mouth:` | :grimacing: `:grimacing:` |
-| :confused: `:confused:` | :hushed: `:hushed:` | :expressionless: `:expressionless:` |
+| :confused: `:confused:` | :thinking: `:thinking:` |:hushed: `:hushed:` |
+| :expressionless: `:expressionless:` |
 | :unamused: `:unamused:` | :sweat_smile: `:sweat_smile:` | :sweat: `:sweat:` |
 | :disappointed_relieved: `:disappointed_relieved:` | :weary: `:weary:` | :pensive: `:pensive:` |
 | :disappointed: `:disappointed:` | :confounded: `:confounded:` | :fearful: `:fearful:` |
@@ -117,6 +118,7 @@ Objects
 
 | :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
 |---|---|---|
+|:package: `:package:`|
 | :school_satchel: `:school_satchel:` | :mortar_board: `:mortar_board:` | :flags: `:flags:` |
 | :fireworks: `:fireworks:` | :sparkler: `:sparkler:` | :wind_chime: `:wind_chime:` |
 | :rice_scene: `:rice_scene:` | :jack_o_lantern: `:jack_o_lantern:` | :ghost: `:ghost:` |
@@ -312,5 +314,4 @@ Symbols
 | :large_blue_circle: `:large_blue_circle:` | :large_blue_diamond: `:large_blue_diamond:` | :large_orange_diamond: `:large_orange_diamond:` |
 | :small_blue_diamond: `:small_blue_diamond:` | :small_orange_diamond: `:small_orange_diamond:` | :small_red_triangle: `:small_red_triangle:` |
 | :small_red_triangle_down: `:small_red_triangle_down:` | :shipit: `:shipit:` |
-Social
-| :github: `:github:`|
+
